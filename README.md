@@ -75,3 +75,6 @@ GROUP BY
 ORDER BY 
       FORMAT(OrderDate, 'yyyy-MM')
 ```
+
+### Data Visualization
+
