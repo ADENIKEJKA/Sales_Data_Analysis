@@ -81,4 +81,10 @@ ORDER BY
 
 ![MONTHLY REVENUE REPORT](https://github.com/user-attachments/assets/b23975b9-6ee3-42a5-8888-1c95dcbdacc3)
 
+![Sales Data Analysis Project 1](https://github.com/user-attachments/assets/5774ed92-6ec8-4efb-9a13-3f6f272905f3)
+
+![SALES PERFORMANCE ANALYSIS FOR RETAIL STORE](https://github.com/user-attachments/assets/0b184e36-c68b-4caa-b7d2-8e6b5d86352c)
+
+
+
 
