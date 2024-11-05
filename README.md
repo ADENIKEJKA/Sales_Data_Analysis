@@ -91,6 +91,15 @@ ORDER BY
 - Although sales in the East region are high, there is still opportunity for development to catch up to the South. Examining Eastern consumers' buying patterns may highlight distinctive product preferences that could be capitalized on.
 - The fact that the North and West regions lag behind suggests that these areas may require calculated measures to increase sales. Increased market share in these areas could be achieved, for example, by customized marketing campaigns, focused promotions, or even a closer examination of regional competitors.
 
+2. Product Performance:
+Shoes generate the most money, so, it is likely that their prices or sales volume are higher than those of other products. This can suggest that there is a high demand for shoes, a good range of products, or successful marketing techniques. To capitalize on the popularity of this category, the store may think about extending its shoe inventory or offering deals in this area.
+
+ Shirts however ranks second highest sales generating most sales from the eastern region. To get more sales for shirts in other regions, additional shirt styles should be explored and effective marketing should 
+ be done in those areas.
+
+ Sales performance for other products that fall in the category of accessories such as hats, gloves, and socks are low and this could imply that customers regard them as complementary products making them have 
+ little interest in the products. Their sales and overall income contribution could be increased by providing these things as add-ons at checkout or as part of packaged packages.
+
 
 
 
