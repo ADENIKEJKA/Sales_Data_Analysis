@@ -77,4 +77,8 @@ ORDER BY
 ```
 
 ### Data Visualization
+![TOTAL SALES BY PRODUCTS   REGION](https://github.com/user-attachments/assets/77a628d4-5f92-4ac7-aa9c-1ea874a13a6c)
+
+![MONTHLY REVENUE REPORT](https://github.com/user-attachments/assets/b23975b9-6ee3-42a5-8888-1c95dcbdacc3)
+
 
