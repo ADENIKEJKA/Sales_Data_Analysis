@@ -16,7 +16,7 @@
 
 [Inferences](#inferences)
 
-[Conclusions](#conclusion)
+[Conclusions](#conclusions)
 
 ### Project Overview
 ---
@@ -79,6 +79,7 @@ ORDER BY
 ```
 
 ### Data Visualization
+---
 ![TOTAL SALES BY PRODUCTS   REGION](https://github.com/user-attachments/assets/77a628d4-5f92-4ac7-aa9c-1ea874a13a6c)
 
 ![MONTHLY REVENUE REPORT](https://github.com/user-attachments/assets/b23975b9-6ee3-42a5-8888-1c95dcbdacc3)
@@ -88,6 +89,7 @@ ORDER BY
 ![SALES PERFORMANCE ANALYSIS FOR RETAIL STORE](https://github.com/user-attachments/assets/0b184e36-c68b-4caa-b7d2-8e6b5d86352c)
 
 ### Inferences
+---
 1. Top-Performing Regions:
 - The South has been the store's strongest market, as seen by the largest revenue made there. This indicates a strong level of client engagement and demand in this location, which may be brought on by seasonal preferences, successful local marketing, or advantageous demographics.
 - Although sales in the East region are high, there is still opportunity for development to catch up to the South. Examining Eastern consumers' buying patterns may highlight distinctive product preferences that could be capitalized on.
@@ -118,7 +120,7 @@ Shoes generate the most money, so, it is likely that their prices or sales volum
     boost revenue and customer satisfaction.
 
 ### Conclusions
-   
+---   
 * The South and East areas are the main marketplaces generating the store's revenue, according to the sales data. However, with focused tactics and more thorough market research, there is a lot of room to expand both the North and West.
 * The store can tailor its inventory, marketing, and promotional efforts to further solidify its position in high-performing regions and spur growth in underperforming ones by utilizing these insights on product performance and regional demand.
 
